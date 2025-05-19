@@ -1,0 +1,13 @@
+# Visual Studio cache
+.vs/
+
+# Выход сборки и бинарники
+x64/
+*.exe
+*.dll
+*.obj
+*.ilk
+*.pdb
+*.log
+**/*.recipe
+**/*.tlog
